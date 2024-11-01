@@ -1,0 +1,97 @@
+
+.nav-pills .nav-link {
+    border-radius: 20px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: #e6e6e6;
+    color: #72777c;
+    font-weight: bold;
+}
+
+.nav-item a {
+    color: #72777c !important;
+    font-weight: bold;
+}
+
+#myTabContent {
+    background-color: #fff;
+}
+
+.sui-form-field .sui-control-with-icon {
+    margin-bottom: 40px;
+}
+
+.sui-button.sui-button-blue {
+    background-color: #17a8e3;
+    color: #fff;
+    font: 500 12px/16px Roboto, Arial, sans-serif;
+    letter-spacing: -0.25px;
+    min-width: 80px;
+    padding: 5px 14px;
+    text-transform: uppercase;
+    width: auto;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+}
+
+.sui-box-body {
+    padding: 30px;
+    /*border-bottom: 1px solid #e6e6e6;*/
+}
+
+.alert {
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+
+.sui-notice-dismiss {
+    cursor: pointer;
+}
+
+.img-cont {
+    background-color: #727789;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.img-cont img {
+    height: 80%;
+    margin: 0;
+}
+
+.popup-table {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.popup-table td {
+    border: 0 !important;
+}

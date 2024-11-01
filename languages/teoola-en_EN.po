@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-14 02:32+0000\n"
+"PO-Revision-Date: 2020-10-14 02:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (EN)\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: login.php\n"
+"X-Poedit-SearchPath-1: popup.php\n"
+"X-Poedit-SearchPath-2: settings.php\n"
+"X-Poedit-SearchPath-3: teoola.php\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: settings_apikey.php:30 settings_apikey.php:45 settings.php:92
+msgid "API Key"
+msgstr ""
+
+#: settings_apikey.php:35
+msgid "Contact"
+msgstr ""
+
+#: settings_apikey.php:46
+msgid ""
+"Your API Key is unique to your !teoola account and is the connection between "
+"you and our servers, and your access to all our Pro features."
+msgstr ""
+
+#: settings_apikey.php:50
+msgid "Entity"
+msgstr ""
+
+#: settings_apikey.php:56
+msgid "Active Key"
+msgstr ""
+
+#: news_functions.php:77 teoola.php:559 view/news.php:113 view/news.php:147
+#: view/events.php:113 view/events.php:147
+msgid "Read more"
+msgstr ""
+
+#: news_functions.php:97
+msgid "News settings updated."
+msgstr ""
+
+#: settings.php:74
+msgid "Configuration"
+msgstr ""
+
+#: settings.php:80 settings_general.php:3
+msgid "Settings of the chat"
+msgstr ""
+
+#: settings.php:83
+msgid "Creates popups"
+msgstr ""
+
+#: settings.php:86 settings_events.php:43
+msgid "Events"
+msgstr ""
+
+#: settings.php:89 settings_news.php:43 view/news.php:100
+msgid "News"
+msgstr ""
+
+#: settings.php:95
+msgid "Sign out"
+msgstr ""
+
+#: settings.php:101 list_popups.php:98
+msgid "Are you sure ?"
+msgstr ""
+
+#: settings.php:105 list_popups.php:102
+msgid "No, take me back"
+msgstr ""
+
+#: settings.php:106 list_popups.php:103
+msgid "Yes"
+msgstr ""
+
+#: list_popups.php:23 settings_popup.php:31
+msgid "Html selector can not be empty."
+msgstr ""
+
+#: list_popups.php:70
+msgid "Remove"
+msgstr ""
+
+#: list_popups.php:76 settings_popup.php:14 settings_popup.php:167
+msgid "Title"
+msgstr ""
+
+#: list_popups.php:78 settings_popup.php:14 settings_popup.php:168
+msgid "Question"
+msgstr ""
+
+#: list_popups.php:81
+msgid "HTML selectors (#idElement or .classElement)"
+msgstr ""
+
+#: list_popups.php:85 settings_popup.php:173
+msgid "Close"
+msgstr ""
+
+#: list_popups.php:119
+msgid "Not found item"
+msgstr ""
+
+#. Name of the plugin
+#. Author of the plugin
+#: teoola.php:29
+msgid "!teoola"
+msgstr ""
+
+#: teoola.php:32 teoola.php:48
+msgid "Settings"
+msgstr ""
+
+#: teoola.php:84
+msgid "General settings updated."
+msgstr ""
+
+#: teoola.php:148
+msgid "Popup settings updated."
+msgstr ""
+
+#: teoola.php:158
+msgid "Events settings updated."
+msgstr ""
+
+#: teoola.php:482
+msgid "Popup deleted."
+msgstr ""
+
+#: settings_news.php:49
+msgid "Display of news"
+msgstr ""
+
+#: settings_news.php:50
+msgid ""
+"With the following shortcode, display the last 3 news anywhere you want : "
+msgstr ""
+
+#: settings_news.php:54
+msgid "Enable the news features"
+msgstr ""
+
+#: settings_news.php:55 settings_events.php:55
+msgid "To view the calendar"
+msgstr ""
+
+#: settings_news.php:56 settings_events.php:56
+msgid "The available parameters for this shortcode are: description and image."
+msgstr ""
+
+#: settings_news.php:57
+msgid "To view the list of news"
+msgstr ""
+
+#: settings_news.php:58 settings_events.php:58
+msgid ""
+"The available parameters for this shortcode are: description, image, num and "
+"mode."
+msgstr ""
+
+#: settings_news.php:59 settings_events.php:59
+msgid ""
+"You can control the display of the description, images or number of news "
+"items to show via the shortcode parameters."
+msgstr ""
+
+#: settings_news.php:65 settings_popup.php:181 settings_events.php:65
+#: settings_general.php:134
+msgid "Save Changes"
+msgstr ""
+
+#: login.php:12
+msgid "Let's connect your site"
+msgstr ""
+
+#: login.php:14
+msgid "To unlock !teoola features, log in using your entity ID and key."
+msgstr ""
+
+#: login.php:19
+msgid "Entity ID"
+msgstr ""
+
+#: login.php:26
+msgid "Key"
+msgstr ""
+
+#: login.php:34
+msgid ""
+"Your login details were incorrect. Please make sure you're using your entity "
+"ID and key and try again"
+msgstr ""
+
+#: login.php:40
+msgid "Connect"
+msgstr ""
+
+#: login.php:53
+#, php-format
+msgid "Don't have an account? %1$sContact us%2$s now and get your access!"
+msgstr ""
+
+#: settings_popup.php:14 settings_popup.php:169
+msgid "HTML selector(s)"
+msgstr ""
+
+#: settings_popup.php:110
+msgid "Create popups"
+msgstr ""
+
+#: settings_popup.php:116
+msgid "Active popups"
+msgstr ""
+
+#: settings_popup.php:116
+msgid "If you want to display popups via html selectors."
+msgstr ""
+
+#: settings_popup.php:120
+msgid "Display the popups once they are created."
+msgstr ""
+
+#: settings_popup.php:122
+msgid "Width popup"
+msgstr ""
+
+#: settings_popup.php:127 settings_general.php:73
+msgid "Header color"
+msgstr ""
+
+#: settings_popup.php:128
+msgid "Pick the color of the header of the popup."
+msgstr ""
+
+#: settings_popup.php:140 settings_general.php:90 settings_general.php:122
+msgid "SELECT"
+msgstr ""
+
+#: settings_popup.php:149
+msgid "List popups"
+msgstr ""
+
+#: settings_popup.php:161
+msgid "+ ADD A POPUP"
+msgstr ""
+
+#: settings_events.php:49
+msgid "Display of events"
+msgstr ""
+
+#: settings_events.php:50
+msgid ""
+"With the following shortcode, display the last 3 events anywhere you want : "
+msgstr ""
+
+#: settings_events.php:54
+msgid "Enable the events features"
+msgstr ""
+
+#: settings_events.php:57
+msgid "To view the list of events"
+msgstr ""
+
+#: settings_general.php:16
+msgid "Active chat popup"
+msgstr ""
+
+#: settings_general.php:16
+msgid "If you want to display chat popup."
+msgstr ""
+
+#: settings_general.php:20
+msgid "Display the chat popup."
+msgstr ""
+
+#: settings_general.php:28
+msgid "Display of the message box"
+msgstr ""
+
+#: settings_general.php:30
+msgid ""
+"By default, the message box is always visible. If you want the box to be "
+"minified, enable this option."
+msgstr ""
+
+#: settings_general.php:40
+msgid "Display an icon instead of the message box on page load."
+msgstr ""
+
+#: settings_general.php:47
+msgid "Display the admin name and photo in the first step of the form."
+msgstr ""
+
+#: settings_general.php:57
+msgid "First step message"
+msgstr ""
+
+#: settings_general.php:75
+msgid "Pick the color of the header of the message box."
+msgstr ""
+
+#: settings_general.php:99
+msgid "Icon style"
+msgstr ""
+
+#: settings_general.php:100
+msgid ""
+"You can customize the icon and the background color of the button to open up "
+"the message box."
+msgstr ""
+
+#: settings_general.php:105
+msgid "Select icon"
+msgstr ""
+
+#: settings_general.php:114
+msgid "Background color of the icon"
+msgstr ""
+
+#: view/news.php:92
+msgid "Upcoming News"
+msgstr ""
+
+#: view/news.php:140 view/events.php:100 view/events.php:140
+msgid "Event"
+msgstr ""
+
+#: view/events.php:92
+msgid "Upcoming Events"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"!teoola affords a \"new insigh\" into an address book and creates a \"word "
+"of mouth\" recommendation tool on your Smartphone."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/teoola/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.teoola.com/"
+msgstr ""
